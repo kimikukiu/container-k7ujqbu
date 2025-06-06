@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "kimikukiu",
+  "repo": "container-k7ujqbu",
+  "name": "kimikukiu",
+  "email": "kexomet@proton.me",
+}
